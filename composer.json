@@ -1,5 +1,5 @@
 {
-    "name": "the_elephpant/sitemap",
+    "name": "the_elephpant/laravel-xml-sitemap",
     "description": "A simple sitemap generator for PHP Framework.",
     "license": "MIT",
     "type": "library",
